@@ -54,7 +54,7 @@ metaDataFormat= "yaml"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/tomdekeyser7"
+    url  = "https://www.linkedin.com/in/tomdekeyser7/"
 
 [params.style]
   # add path to custom CSS files here
