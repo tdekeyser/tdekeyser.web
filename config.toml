@@ -44,9 +44,9 @@ metaDataFormat= "yaml"
 #    name = "gitlab"
 #    url  = "https://gitlab.com/avron/gruvhugo"
 
-#  [[params.social]]
-#    name = "email"
-#    url  = "mailto:mail@mail.com"
+  [[params.social]]
+    name = "email"
+    url  = "mailto:tom_dekeyser_7@hotmail.com"
 
   [[params.social]]
     name = "github"
