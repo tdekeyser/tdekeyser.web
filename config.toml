@@ -62,11 +62,11 @@ metaDataFormat= "yaml"
   # add path to custom SCSS files here
   custom_scss = ["/sass/style.scss"]
 
-#[menu]
-#  [[menu.main]]
-#    identifier = "about"
-#    name       = "About"
-#    url        = "about"
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about"
 
 #  [[menu.main]]
 #    identifier = "posts"
