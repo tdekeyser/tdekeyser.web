@@ -1,6 +1,6 @@
 # Hey, thanks for using my theme. If you like this theme,checkout my repo (https://gitlab.com/avron/gruvhugo"
 # and drop a star while you're at it. ;)
-baseurl = "https://kind-rock-084078403.1.azurestaticapps.net"
+baseurl = "https://icy-field-0a1512b03.1.azurestaticapps.net"
 title = "Tom De Keyser"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
@@ -54,7 +54,7 @@ metaDataFormat= "yaml"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/in/tomdekeyser7/"
+    url  = "https://www.linkedin.com/in/tomdekeyser7"
 
 [params.style]
   # add path to custom CSS files here
